@@ -53,7 +53,7 @@ Project | Description | Technologies | Online |
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
 **[Ruby Refresher](https://github.com/ptolemybarnes/wk7-ruby-refresher)** |  A refresher on core Ruby methods   |Ruby, RSpec|
-
+**[Cat Censor](https://github.com/jacobmitchinson/catSensor)**  |   Cats that hate profanities  | Node, Express, jQuery | 
 
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
