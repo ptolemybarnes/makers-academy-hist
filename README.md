@@ -38,19 +38,22 @@ Project | Description | Technologies |
 
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
-**[Rock Paper Scissors](https://github.com/ptolemybarnes/ma-wk5-rock-paper-scissors-js)**  |    Rock Paper Scissors done in JS     | Javascript, Jasmine, HTML, CSS |
-**[Thermostat](https://github.com/ptolemybarnes/javascript/tree/master/ma-wk5-thermostat-js)**  |    Rock Paper Scissors done in JS - must move into own repo!    | Javascript, Jasmine, HTML, CSS, Bootstrap |
+**[Rock Paper Scissors](https://github.com/sandagolcea/rock-paper-scissors-js)**  |    Rock Paper Scissors, in JS.     | Javascript, Jasmine, HTML, CSS |
+**[Thermostat](https://github.com/ptolemybarnes/javascript/tree/master/ma-wk5-thermostat-js)**  |    A thermostat, in JS.    | Javascript, Jasmine, HTML, CSS, Bootstrap |
 **[Bowling](https://github.com/ptolemybarnes/ma-wk5-bowling-js)** |     Bowling Scorecard     |         Javascript, Jasmine, HTML, CSS, jQuery, Bootstrap |
 
 
 ###Week 6
 Project | Description | Technologies | Online |
  ------------ | :-----------: | -----------: | -----------: |
-**[Maps](https://github.com/ptolemybarnes/maps)**  |    SVG map with selectable areas    | Javascript, JQuery, HTML, SVG | no |
-**[Makerbook](https://github.com/ptolemybarnes/makerbook)** |     Maker book fetches info for each github user specified using github API     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](http://makerbook.herokuapp.com/user/new) |
+**[Makerbook](https://github.com/sandagolcea/makerbook)** |     Maker book fetches info for each github user specified using github API     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](http://makerbook.herokuapp.com/user/new) |
 
 
 ###Week 7
+Project | Description | Technologies |
+ ------------ | :-----------: | -----------: |
+**[Ruby Refresher](https://github.com/ptolemybarnes/wk7-ruby-refresher)** |  A refresher on core Ruby methods   |Ruby, RSpec|
+
 
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
