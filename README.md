@@ -55,6 +55,12 @@ Project | Description | Technologies |
 **[Ruby Refresher](https://github.com/ptolemybarnes/wk7-ruby-refresher)** |  A refresher on core Ruby methods   |Ruby, RSpec|
 **[Cat Censor](https://github.com/jacobmitchinson/catSensor)**  |   Cats that hate profanities  | Node, Express, jQuery | 
 
+###Week 8
+Project | Description | Technologies |
+ ------------ | :-----------: | -----------: |
+Makerbot      |          A slackbot for the Makers' Academy channel. Bristling with api wrappers, Slackbot answers any questions (literally). | Node.js, Jasmine.
+
+###Week 9
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
 Content 1      |          *Spanning Cell*        ||
