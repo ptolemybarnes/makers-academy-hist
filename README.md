@@ -58,7 +58,7 @@ Project | Description | Technologies |
 ###Week 8
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
-Makerbot      |          A slackbot for the Makers' Academy channel. Bristling with api wrappers, Slackbot answers any questions (literally). | Node.js, Jasmine.
+Makerbot      |          A slackbot for the Makers' Academy channel. Bristling with api wrappers, Makerbot answers any questions (literally). | Node.js, Jasmine.
 
 ###Week 9
 Project | Description | Technologies |
