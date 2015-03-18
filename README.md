@@ -63,7 +63,11 @@ Makerbot      |          A slackbot for the Makers' Academy channel. Bristling w
 ###Week 9
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
-Content 1      |          *Spanning Cell*        ||
-Content  2     |   **Cell Bold**    |         Cell |
-New section   |     More      |         Data |
-And more      |            And more          |
+**Squeak**      | A Yelp clone     | Rails |
+
+###Weeks 10 - 11
+Project | Description | Technologies |
+ ------------ | :-----------: | -----------: |
+
+**IAmMe**      | An event-discovery platform with the form of a calendar  | Rails, jQuery, Capybara, Selenium, RSpec, AWS |
+
