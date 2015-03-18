@@ -2,7 +2,7 @@
 Summary of my learning at Makers Academy
 
 ###Precourse
-Prior to Makers Academy I familiarised myself with the basics of Ruby. Some early efforts - katas, project euler, and so on - are recorded in a [Baby Steps](https://github.com/ptolemybarnes/baby-steps) repository.
+Before Makers Academy I focused on core Ruby. Some early efforts - katas, project euler, and so on - are recorded in a [Baby Steps](https://github.com/ptolemybarnes/baby-steps) repository.
 
 ###Week 1
 
